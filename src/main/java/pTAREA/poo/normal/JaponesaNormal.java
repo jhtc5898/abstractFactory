@@ -1,4 +1,4 @@
-package tarea2;
+package pTAREA.poo.normal;
 
 public class JaponesaNormal extends Normal{
     @Override
